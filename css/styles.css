@@ -153,6 +153,7 @@ img {
 }
 
 .logo-studio-dark {
+    position: relative;
     color: var(--dark-blue);
 }
 
